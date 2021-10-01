@@ -24,18 +24,18 @@
 },
 "colors": {
   "colors": [
-    {"name": "Red",
-    "hex: "#ff0000"},
+    {"name" : "Red",
+    "hex" : "#ff0000"},
     {"name": "Green",
-    "hex: "#00ff00"},
+    "hex" : "#00ff00"},
     {"name": "Blue",
-    "hex: "#0000ff"},
+    "hex" : "#0000ff"},
     {"name": "White",
-    "hex: "#ffffff"},
+    "hex" : "#ffffff"},
     {"name": "Black",
-    "hex: "#000000"},
+    "hex" : "#000000"},
     {"name": "Teal",
-    "hex: "#03dac5"}
+    "hex" : "#03dac5"}
   ]
 }
 }
