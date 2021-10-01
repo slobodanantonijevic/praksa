@@ -1,4 +1,32 @@
 {
+  "locations": {
+    "locations": [
+      {
+        "city": "Novi Sad",
+        "lat": "45.253040",
+        "lng": "19.829213",
+        "title": "Test Location 1"
+      },
+      {
+        "city": "Novi Sad",
+        "lat": "45.253763",
+        "lng": "19.827204",
+        "title": "Test Location 2"
+      },
+      {
+        "city": "Novi Sad",
+        "lat": "45.252456",
+        "lng": "19.828945",
+        "title": "Test Location 3"
+      },
+      {
+        "city": "Novi Sad",
+        "lat": "45.253781",
+        "lng": "19.828709",
+        "title": "Test Location 4"
+      }
+    ]
+  },
   "users": {
     "users": [
       {
