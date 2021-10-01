@@ -21,5 +21,21 @@
     "lng" : "19.828709",
     "title" : "Test Location 4"
   } ]
+},
+"colors": {
+  "colors": [
+    {"name": "Red",
+    "hex: "#ff0000"},
+    {"name": "Green",
+    "hex: "#00ff00"},
+    {"name": "Blue",
+    "hex: "#0000ff"},
+    {"name": "White",
+    "hex: "#ffffff"},
+    {"name": "Black",
+    "hex: "#000000"},
+    {"name": "Teal",
+    "hex: "#03dac5"}
+  ]
 }
 }
