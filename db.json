@@ -1,25 +1,104 @@
 {
-  "locations" : {
-  "locations" : [ {
-    "city" : "Novi Sad",
-    "lat" : "45.253040",
-    "lng" : "19.829213",
-    "title" : "Test Location 1"
-  }, {
-    "city" : "Novi Sad",
-    "lat" : "45.253763",
-    "lng" : "19.827204",
-    "title" : "Test Location 2"
-  }, {
-    "city" : "Novi Sad",
-    "lat" : "45.252456",
-    "lng" : "19.828945",
-    "title" : "Test Location 3"
-  }, {
-    "city" : "Novi Sad",
-    "lat" : "45.253781",
-    "lng" : "19.828709",
-    "title" : "Test Location 4"
-  } ]
-}
+  "users" : [
+  {
+    "city": "Novi Sad",
+    "contact": {
+      "email": "mika@mail.com",
+      "mobile": "+381612342342",
+      "phone": "+38121324234"
+    },
+    "date": "10.09.1990",
+    "name": "Mika Mikic"
+  },
+  {
+    "city": "Novi Sad",
+    "contact": {
+      "email": "pera@mail.com",
+      "mobile": "+381612342342",
+      "phone": "+38121324234"
+    },
+    "date": "10.09.1993",
+    "name": "Pera Peric"
+  },
+  {
+    "city": "Novi Sad",
+    "contact": {
+      "email": "zika@mail.com",
+      "mobile": "+381612342342",
+      "phone": "+38121324234"
+    },
+    "date": "09.01.1990",
+    "name": "Zika Zikic"
+  },
+  {
+    "city": "Novi Sad",
+    "contact": {
+      "email": "marko@mail.com",
+      "mobile": "+381612342342",
+      "phone": "+38121324234"
+    },
+    "date": "16.12.1990",
+    "name": "Marko Markovic"
+  },
+  {
+    "city": "Novi Sad",
+    "contact": {
+      "email": "aleksa@mail.com",
+      "mobile": "+381612342342",
+      "phone": "+38121324234"
+    },
+    "date": "24.05.1998",
+    "name": "Aleksa Aleksic"
+  },
+  {
+    "city": "Novi Sad",
+    "contact": {
+      "email": "jovana@mail.com",
+      "mobile": "+381612342342",
+      "phone": "+38121324234"
+    },
+    "date": "10.09.1993.",
+    "name": "Jovana Jovanovic"
+  },
+  {
+    "city": "Novi Sad",
+    "contact": {
+      "email": "maja@mail.com",
+      "mobile": "+381612342342",
+      "phone": "+38121324234"
+    },
+    "date": "29.09.1996.",
+    "name": "Maja Marjanovic"
+  },
+  {
+    "city": "Novi Sad",
+    "contact": {
+      "email": "jelena@mail.com",
+      "mobile": "+381612342342",
+      "phone": "+38121324234"
+    },
+    "date": "18.03.1994.",
+    "name": "Jelena Jelic"
+  },
+  {
+    "city": "Novi Sad",
+    "contact": {
+      "email": "marija@mail.com",
+      "mobile": "+381612342342",
+      "phone": "+38121324234"
+    },
+    "date": "10.04.1996.",
+    "name": "Marija Mijic"
+  },
+  {
+    "city": "Novi Sad",
+    "contact": {
+      "email": "ivana@mail.com",
+      "mobile": "+381612342342",
+      "phone": "+38121324234"
+    },
+    "date": "30.07.1999.",
+    "name": "Ivana Nikolic"
+  }
+]
 }
