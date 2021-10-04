@@ -46,7 +46,7 @@
       {
         "date" : "19.09.2021.",
         "source" : "EMAIL",
-        "excerpt" : "Turpis cursus in hac habitasse platea. Id velit ut tortor pretium. At augue eget arcu dictum varius duis. Auctor elit sed vulputate mi sit amet. Aenean euismod elementum nisi quis eleifend quam adipiscing vitae proin...",,
+        "excerpt" : "Turpis cursus in hac habitasse platea. Id velit ut tortor pretium. At augue eget arcu dictum varius duis. Auctor elit sed vulputate mi sit amet. Aenean euismod elementum nisi quis eleifend quam adipiscing vitae proin...",
         "text" : ""
       },
       {
@@ -60,34 +60,6 @@
         "source" : "EMAIL",
         "excerpt" : "Netus et malesuada fames ac turpis egestas sed tempus. Ultricies integer quis auctor elit sed vulputate mi sit amet. Et tortor at risus viverra adipiscing at in. Eget lorem dolor sed viverra ipsum nunc...",
         "text" : ""
-      }
-    ]
-  },
-  "locations": {
-    "locations": [
-      {
-        "city": "Novi Sad",
-        "lat": "45.253040",
-        "lng": "19.829213",
-        "title": "Test Location 1"
-      },
-      {
-        "city": "Novi Sad",
-        "lat": "45.253763",
-        "lng": "19.827204",
-        "title": "Test Location 2"
-      },
-      {
-        "city": "Novi Sad",
-        "lat": "45.252456",
-        "lng": "19.828945",
-        "title": "Test Location 3"
-      },
-      {
-        "city": "Novi Sad",
-        "lat": "45.253781",
-        "lng": "19.828709",
-        "title": "Test Location 4"
       }
     ]
   },
