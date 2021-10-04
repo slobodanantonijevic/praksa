@@ -1,4 +1,88 @@
 {
+  "stocks" : {
+    "stocks" : [
+      {
+        "date" : "04.10.2021.",
+        "company" : {
+          "code" : "AAPL",
+          "name" : "Apple Inc"
+        },
+        "volume" : "149,70"
+      },
+      {
+        "date" : "04.10.2021.",
+        "company" : {
+          "code" : "DOW J",
+          "name" : "Dow Jones Industrial"
+        },
+        "volume" : "36,57"
+      },
+      {
+        "date" : "02.10.2021.",
+        "company" : {
+          "code" : "MSFT",
+          "name" : "Microsoft Corporation"
+        },
+        "volume" : "97,20"
+      },
+      {
+        "date" : "01.10.2021.",
+        "company" : {
+          "code" : "GOOG",
+          "name" : "Google LLC"
+        },
+        "volume" : "139,87"
+      },
+      {
+        "date" : "01.10.2021.",
+        "company" : {
+          "code" : "AMZN",
+          "name" : "Amazon Inc"
+        },
+        "volume" : "183,02"
+      },
+      {
+        "date" : "01.10.2021.",
+        "company" : {
+          "code" : "TSLA",
+          "name" : "Tesla Inc"
+        },
+        "volume" : "47,39"
+      },
+      {
+        "date" : "30.09.2021.",
+        "company" : {
+          "code" : "BRK-A",
+          "name" : "Berkshire Hathaway Inc"
+        },
+        "volume" : "15,01"
+      },
+      {
+        "date" : "30.09.2021.",
+        "company" : {
+          "code" : "BABA",
+          "name" : "Alibaba Group Ltd"
+        },
+        "volume" : "112,53"
+      },
+      {
+        "date" : "29.09.2021.",
+        "company" : {
+          "code" : "PYPL",
+          "name" : "PayPal Holdings Inc"
+        },
+        "volume" : "20,18"
+      },
+      {
+        "date" : "29.09.2021.",
+        "company" : {
+          "code" : "ADBE",
+          "name" : "Adobe Inc"
+        },
+        "volume" : "14,92"
+      }
+    ]
+  }
   "notifications" : {
     "notifications" : [
       {
